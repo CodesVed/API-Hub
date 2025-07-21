@@ -10,7 +10,8 @@ This repository serves as a **backend development showcase**, especially for RES
 
 | Project Name           | Description                                  | Timeline           | Tech Stack                | Links                                          |
 |------------------------|----------------------------------------------|--------------------|---------------------------|------------------------------------------------|
-| Feedback API           | Simple API to collect user feedback by category | July 2025 (1 week) | Java, Spring Boot, H2(in-memory)  | [Details](./Feedback-API/README.md) |
+| Calculator API           | Simple API to do basic arithematic calculation | May 2025 (1 week) | Java, Spring Boot  | [Details](./Calculator_API/README.md) |
+| Task Management API           | API to handle task CRUD | May 2025 (1 week) | Java, Spring Boot  | [Details](./TaskManagement_API/README.md) |
 
 ---
 
