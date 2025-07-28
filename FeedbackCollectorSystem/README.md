@@ -14,7 +14,6 @@ A lightweight RESTful API built with Spring Boot for collecting, managing, and o
 ## 🚀 API Endpoints
 
 ### ➕ Submit Feedback
-
 - **POST** `/api/feedback/submit`
 - **Request Body:**
 ```json
@@ -42,19 +41,22 @@ A lightweight RESTful API built with Spring Boot for collecting, managing, and o
 
 **Response**: 200 OK on successful deletion
 
-🧾 Supported Categories
--PRAISE
+
+### 🧾 Supported Categories
+- PRAISE
 - BUG
 - FEATURE_REQUEST
 - COMPLAINT
 - OTHER
 
-⚙️ Tech Stack
+
+### ⚙️ Tech Stack
 - Java
 - Spring Boot
 - Maven
 - H2 (In-Memory Database)
 - Deployed on: Render
+
 
 ### 👨‍💻 Author
 Built with 💡 and ☕ by Vedant Jain
